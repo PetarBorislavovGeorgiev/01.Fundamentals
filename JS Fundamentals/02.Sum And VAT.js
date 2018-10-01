@@ -1,4 +1,3 @@
-
 function sumAndVAT(input) {
     let sum = 0;
 
