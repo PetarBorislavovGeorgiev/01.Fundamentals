@@ -1,0 +1,11 @@
+function StringOfNumbers(input) {
+    let str = '';
+
+    for (let index = 0; index < input.length; index++) {
+        
+        str += index;
+    }
+
+    return str;
+}
+StringOfNumbers('11');
